@@ -1,3 +1,7 @@
-SinyorSploits Rolesional Tarafından Paste Edilen Bir Script Hublı Hile Yazılımıdır!!!
+SinyorSploits Rolesional Tarafından Paste Edilen Bir Script Hublı Exploit Yazılımıdır!!!
 
-https://cdn.discordapp.com/attachments/945736133642444810/951510945358839838/13.PNG
+Level 6'dır Exploitlerin Hepsi Level 6'dır
+
+WRD Api Kullanmaktadır!!!
+
+https://imgur.com/a/hvy44wj
